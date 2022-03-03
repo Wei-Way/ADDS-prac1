@@ -5,6 +5,9 @@
 #include "com.h"
 
 class ref{
-    void compare_choice();
+    public:
+
+    private:
+    //void compare_choice();
 };
 #endif

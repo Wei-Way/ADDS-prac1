@@ -1,5 +1,5 @@
 #include <iostream>
-
+/*
 void compare_choice(){
     char player = choose();
     char computer = com_choose();
@@ -15,4 +15,4 @@ void compare_choice(){
     } else {
         std::cout << "Unknown error" << std::endl;
     }
-}
+}*/
